@@ -1,6 +1,6 @@
 # Minimax signal detection in regression under differential privacy
 
-This repository contains the R code for the numerical experiments in the paper. 
+This repository contains the R code for the numerical experiments in the [paper](https://arxiv.org/abs/2611.04064). 
 
 ## Setup
 
